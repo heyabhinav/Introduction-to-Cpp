@@ -1,4 +1,6 @@
 #include<iostream>
+/* Take number from user and display the reverse of that number.*/
+
 using namespace std;
 int main()
 {
