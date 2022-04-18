@@ -7,10 +7,10 @@ int main()
     int a, b, c;
     cout << "Enter two number (a and b) : ";
     cin >> a >> b;
-    cout << "Before :" << a << b << endl;
+    cout << "Before :" << a << " " << b << endl;
     c = a;
     a = b;
     b = c;
-    cout << "After : " << a << b;
+    cout << "After : " << a << " " << b;
     return 0;
 }
